@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "test",
-    "slug": "test",
+    "name": "workout-assistant",
+    "slug": "workout-assistant",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
     ]
   },
-  "name": "test"
+  "name": "workout-assistant"
 }
